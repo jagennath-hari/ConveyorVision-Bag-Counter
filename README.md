@@ -27,7 +27,7 @@ ConveyCount is an innovative real-time system designed to automate the counting 
 
 ## 📊 Result
 <div align="center">
-    <img src="assets/slam.gif" alt="SLAM" width="700"/>
+    <img src="assets/conveyorvision_output.gif" alt="SLAM" width="700"/>
     <p>SLAM</p>
 </div>
 
