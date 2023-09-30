@@ -21,6 +21,8 @@ ConveyCount is an innovative real-time system designed to automate the counting 
 3) Annotate your datasets of cement bags. A good online data annotation tool is [Roboflow](https://roboflow.com) or [VGG Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/). A `data.yaml` file must get created along with `train`, `valid` and  `test` folders containing the images and labels.
 4) Follow [Official Link](https://docs.ultralytics.com) to train network and generate `yolo8.pt` file with your network architecture of choice, along with your dataset.
 
+## 🤖 To Use
+
 
 ## 🪪 License 
 See the [LICENSE](LICENSE) file for details.
