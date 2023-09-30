@@ -26,7 +26,7 @@ ConveyCount is an innovative real-time system designed to automate the counting 
 2) Run `python counter.py` inside your conda env.
 
 ## 📑 Report
-A brief [REPORT](Attention_based_Visual_Odometry.pdf) can be read to better understand our algorithm.
+A brief [REPORT](assets/ConveyorVision.pdf) can be read to better understand the algorithm.
 
 ## 🪪 License 
 See the [LICENSE](LICENSE) file for details.
