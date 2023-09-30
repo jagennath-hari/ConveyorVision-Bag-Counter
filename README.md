@@ -22,7 +22,8 @@ ConveyCount is an innovative real-time system designed to automate the counting 
 4) Follow [Official Link](https://docs.ultralytics.com) to train network and generate `yolo8.pt` file with your network architecture of choice, along with your dataset.
 
 ## 🤖 To Use
-
+1) Update the video file and `.pt` file paths in `counter.py` in the `main()` function.
+2) Run `python counter.py` inside your conda env.
 
 ## 🪪 License 
 See the [LICENSE](LICENSE) file for details.
