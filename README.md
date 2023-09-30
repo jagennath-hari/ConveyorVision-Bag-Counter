@@ -26,7 +26,10 @@ ConveyCount is an innovative real-time system designed to automate the counting 
 2) Run `python counter.py` inside your conda env.
 
 ## 📊 Result
-
+<div align="center">
+    <img src="assets/slam.gif" alt="SLAM" width="700"/>
+    <p>SLAM</p>
+</div>
 
 ## 📑 Report
 A brief [REPORT](assets/ConveyorVision.pdf) can be read to better understand the algorithm.
