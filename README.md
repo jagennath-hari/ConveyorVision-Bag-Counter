@@ -15,5 +15,10 @@ ConveyCount is an innovative real-time system designed to automate the counting 
 7) Supervision ([Official Link](https://github.com/roboflow/supervision))
 8) Onemetric ([Official Link](https://github.com/SkalskiP/onemetric))
 
+## ⚙️ Install
+1) Create conda env
+2) Install dependencies into env
+3) `xyz`
+
 ## 🪪 License 
 See the [LICENSE](LICENSE) file for details.
