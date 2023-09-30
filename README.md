@@ -14,3 +14,6 @@ ConveyCount is an innovative real-time system designed to automate the counting 
 6) ByteTracker ([Official Link](https://github.com/ifzhang/ByteTrack))
 7) Supervision ([Official Link](https://github.com/roboflow/supervision))
 8) Onemetric ([Official Link](https://github.com/SkalskiP/onemetric))
+
+## 🪪 License 
+See the [LICENSE](https://www.nvidia.com/download/index.aspx) file for details.
