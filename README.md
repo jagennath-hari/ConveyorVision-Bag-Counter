@@ -16,4 +16,4 @@ ConveyCount is an innovative real-time system designed to automate the counting 
 8) Onemetric ([Official Link](https://github.com/SkalskiP/onemetric))
 
 ## 🪪 License 
-See the [LICENSE](https://www.nvidia.com/download/index.aspx) file for details.
+See the [LICENSE](LICENSE) file for details.
