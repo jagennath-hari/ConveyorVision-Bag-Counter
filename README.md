@@ -25,6 +25,9 @@ ConveyCount is an innovative real-time system designed to automate the counting 
 1) Update the `video file` and `.pt` file paths in `counter.py` in the `main()` function.
 2) Run `python counter.py` inside your conda env.
 
+## 📊 Result
+
+
 ## 📑 Report
 A brief [REPORT](assets/ConveyorVision.pdf) can be read to better understand the algorithm.
 
