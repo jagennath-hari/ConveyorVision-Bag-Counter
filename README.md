@@ -25,5 +25,8 @@ ConveyCount is an innovative real-time system designed to automate the counting 
 1) Update the `video file` and `.pt` file paths in `counter.py` in the `main()` function.
 2) Run `python counter.py` inside your conda env.
 
+## 📑 Report
+A brief [REPORT](Attention_based_Visual_Odometry.pdf) can be read to better understand our algorithm.
+
 ## 🪪 License 
 See the [LICENSE](LICENSE) file for details.
